@@ -1,6 +1,6 @@
 <h1 align="center">Hi</h1>
 <h2 align="center">I'm Zhidao.</h2>
-<h3 align="center">I'm a coder.</h3>
+<h3 align="center">I'm a coder and a kid.</h3>
 
 <h4 align="center"> I do bots and websites. Bio at https://zhidao.repl.co</h4>
 <p align="center">
