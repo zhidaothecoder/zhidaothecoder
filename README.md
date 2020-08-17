@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi
+## I'm Zhidao
+### I do coding and other stuff.
 
 <!--
 **zhidaothecoder/zhidaothecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
