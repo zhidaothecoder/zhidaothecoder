@@ -2,11 +2,12 @@
 <h2 align="center">I'm Zhidao.</h2>
 <h3 align="center">I'm a coder.</h3>
 
+<h4 align="center"> I do bots and websites. Bio at [https://zhidao.repl.co](https://zhidao.repl.co)</h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zhidaothecoder&show_icons=true" alt="zhidaothecoder" />
 </p>
  
-#### I do bots and websites. Bio at [https://zhidao.repl.co](https://zhidao.repl.co)
+
 <!--
 **zhidaothecoder/zhidaothecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
