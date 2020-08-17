@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<a href="https://dev.to/gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="gabrieltanner" height="30" width="30" /></a>
+<a href="https://twitter.com/gabrieltanner14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /></a>
+<a href="https://medium.com/@gabrieltanner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrieltanner" height="30" width="30" /></a>
+</p>
