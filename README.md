@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://discord.gg/AKe7dw5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="gabrieltanner" height="30" width="30" /></a>
-<a href="https://twitter.com/@ZhidaoCo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /></a>
-<a href="https://www.reddit.com/user/ZhidaoCo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="@gabrieltanner" height="30" width="30" /></a>
+<a href="https://discord.gg/AKe7dw5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="gabrieltanner" height="30" width="30" /> </a>
+<a href="https://twitter.com/@ZhidaoCo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrieltanner14" height="30" width="30" /> </a>
+<a href="https://www.reddit.com/user/ZhidaoCo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="@gabrieltanner" height="30" width="30" /> </a>
 </p>
