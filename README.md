@@ -1,15 +1,10 @@
 <h1 align="center">Hi</h1>
 <h2 align="center">I'm Zhidao.</h2>
-<h3 align="center">I'm a coder and a kid.</h3>
+<h3 align="center">I'm a coder.</h3>
 
 <h4 align="center"> I do bots and websites. Bio at https://zhidao.repl.co</h4>
-<h5> sub to me here -></h5>
-<script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channelid="UCIBhFv-x1jQeG-nHCvxw_Sg" data-layout="default" data-count="default"></div>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zhidaothecoder&show_icons=true" alt="zhidaothecoder" />
-</p>
+Sub to me (here)[https://zhidao.repl.co]
  
 
 <!--
