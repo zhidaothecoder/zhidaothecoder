@@ -4,7 +4,7 @@
 
 <h4 align="center"> I do bots and websites. Bio at https://zhidao.repl.co</h4>
 
-<h4 align="center">Sub to me [I'm an inline-style link](https://www.google.com)
+<h4 align="center">Sub to me at https://zhidao.repl.co/sub</h4>
  
 
 <!--
